@@ -1,0 +1,18 @@
+/*
+p changes all paragprahs 
+#p changes element with id "p" 
+.p chnages all elements with class "p"
+*/
+
+h1 {
+	font-size: 50;
+	font-family: verdana;
+	color: purple;
+	background-color: yellow;
+	width: 80%;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
